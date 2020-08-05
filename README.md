@@ -62,7 +62,7 @@ The Discovery Interface Limo also includes three extra fields: ‘Shelf location
 
 ## Cite this dataset
 When referring to or using the data repository in research publications and documentation, consider citing the dataset with its digital object identifier (DOI) that is minted in Zenodo. Citing the data repository of the Magister Dixit collection creates a mapping of attribution and supports efforts to release other datasets in the future. It also reduces the amount of "orphaned data," helping to retain source links. <br>
-Cite the repository as: KU Leuven Libraries, Digitisation Department. (2020). Magister Dixit Collection Metadata[Dataset]. Zenodo. http://doi.org/
+Cite the repository as: KU Leuven Libraries, Digitisation Department. (2020). Magister Dixit Collection [Dataset]. Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3973116.svg)](https://doi.org/10.5281/zenodo.3973116)
 
 ## License
 The Magister Dixit Collection repository is licensed under a [Public Domain Mark (PDM)](https://creativecommons.org/share-your-work/public-domain/pdm/). PDM operates as a label indicating that the dataset is no longer restricted by copyright and can be freely used by everyone. 
@@ -75,6 +75,7 @@ The GitHub repository of KU Leuven Libraries follows the CNCF [Code of Conduct](
 [KU Leuven Libraries](https://bib.kuleuven.be/english) <br>
 - Nele Gabriëls: Digitisation Department (project supervisor) <br>
 - Bruno Vandermeulen: Digitisation Department (project advisor) <br>
+- Nicole Bostyn: Metadata Services and Acquisitions <br>
 - Diederik Lanoye: Metadata Services and Acquisitions <br>
 
 [Advanced Master of Digital Humanities](https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_52330579.htm#activetab=diploma_omschrijving) (MSc), KU Leuven <br>
