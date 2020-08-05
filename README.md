@@ -61,8 +61,8 @@ The CSV file (Magister_Dixit_Collection_Dataset.csv) contains 552 records in row
 The Discovery Interface Limo also includes three extra fields: ‘Shelf location’, ‘Provenance’, and ‘Acquisition details’ which are not present in this dataset. <br>
 
 ## Cite this dataset
-When referring to or using the data repository in research publications and documentation, consider citing the dataset with its digital object identifier (DOI) that is minted in Zenodo. Citing the data repository of the Magister Dixit collection creates a mapping of attribution and supports efforts to release other datasets in the future. It also reduces the amount of "orphaned data," helping to retain source links. <br>
-Cite the repository as: KU Leuven Libraries, Digitisation Department. (2020). Magister Dixit Collection [Dataset]. Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3973116.svg)](https://doi.org/10.5281/zenodo.3973116)
+When referring to or using the data repository in research publications and documentation, consider citing the dataset with its digital object identifier (DOI) that is minted in Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3973116.svg)](https://doi.org/10.5281/zenodo.3973116). Citing the data repository of the Magister Dixit collection creates a mapping of attribution and supports efforts to release other datasets in the future. It also reduces the amount of "orphaned data," helping to retain source links. <br>
+Cite the repository as: KU Leuven Libraries, Digitisation Department. (2020). Magister Dixit Collection [Dataset]. Zenodo. http://doi.org/10.5281/zenodo.3973116 
 
 ## License
 The Magister Dixit Collection repository is licensed under a [Public Domain Mark (PDM)](https://creativecommons.org/share-your-work/public-domain/pdm/). PDM operates as a label indicating that the dataset is no longer restricted by copyright and can be freely used by everyone. 
