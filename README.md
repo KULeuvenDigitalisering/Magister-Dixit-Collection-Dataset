@@ -82,7 +82,7 @@ The GitHub repository of KU Leuven Libraries follows the CNCF [Code of Conduct](
 - Martina Verna: Intern, KU Leuven Digitisation Department, thesis project
 
 ## Contributors
-This project follows the all-contributors specification. KU Leuven Libraries recognises contributions and engagement for its open data repository through emoji key✨, in a way to reward every contribution, not only code. Contributions of any kind like questions, ideas, link to videos, translations and many more will be automatically acknowledged through the all-contributors bot 🤖.
+This project follows the all-contributors specification. KU Leuven Libraries recognises contributions and engagement for its open data repository through emoji key✨, in a way to reward every contribution, not only code. Contributions of any kind like questions, ideas, link to videos, translations and many more will be automatically acknowledged through the @all-contributors bot 🤖.
 
 
 
