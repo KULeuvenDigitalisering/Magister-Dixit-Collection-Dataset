@@ -1,5 +1,5 @@
 # Magister-Dixit-Collection-Dataset
-Full dataset from the Magister Dixit Collection (handwritten lecture notes of the Old University of Leuven) offered as open data for digital humanities and other creative engagement
+*Full dataset from the Magister Dixit Collection (handwritten lecture notes of the Old University of Leuven) offered as open data for digital humanities and other creative engagement.*
 
 # KU Leuven Libraries on GitHub
 Read [here](https://github.com/KU-Leuven-Libraries/Welcome-to-KU-Libraries-OpenGLAM) a brief introduction of KU Leuven Libraries on GitHub.
@@ -19,9 +19,11 @@ The Magister Dixit Collection Dataset is a repository of descriptive metadata re
 The repository is designated as a free resource for digital humanities research, for scholars, students and teachers. It is intended for creative reuse, data visualisation and algorithmic processing.
 
 ## Provenance
-The dataset is fully based on the library catalogue metadata. It holds the descriptive metadata as well as URL links to the digital representation in the Teneo viewer. The data, which were provided by the Alma digital preservation environment of KU Leuven Libraries, was previously cleaned, transformed and refined with the OpenRefine application software.  
+The dataset is fully based on the library catalogue metadata. It holds the descriptive metadata as well as URL links to the digital representation in the Teneo viewer. The data, which were provided by the Alma digital preservation environment of KU Leuven Libraries, was previously cleaned, transformed and refined with the [OpenRefine](https://openrefine.org/) application software.  
 
 ## Technical Aspects
+For a correct download click on the [Magister_Dixit_Collection_Dataset.csv](https://github.com/KULeuvenDigitalisering/Magister-Dixit-Collection-Dataset/blob/master/Magister_Dixit_Collection_Dataset.csv). On some web browsers, you need to right-click on 'Raw' and select 'Download linked file as'. For other web browsers, including Chrome, click on 'Raw' and then go to File > Save Page As... The CSV file can also be downloaded from [Zenodo](http://doi.org/10.5281/zenodo.3973116). The recommended setup for a proper display of the CSV file can be adjusted in the Excel data import popup window: 'Character set' to 'Unicode (UTF-8)', the separator option 'Comma' should be selected and the 'Column type' of Column A (Record ID) should be changed from General to 'Text'.
+
 The CSV file (Magister_Dixit_Collection_Dataset.csv) contains 552 records in rows and 27 columns with the following metadata:
 | Column | Content type | Instance | Description/MARC 21 reference |
 |-|-|-|-|
@@ -58,7 +60,10 @@ The CSV file (Magister_Dixit_Collection_Dataset.csv) contains 552 records in row
 | 31 | Collection | BERNE HEESWIJK | Library collection |
 
 
-The Discovery Interface Limo also includes three extra fields: ‘Shelf location’, ‘Provenance’, and ‘Acquisition details’ which are not present in this dataset. <br>
+The Discovery Interface Limo also includes three extra fields: ‘Shelf location’, ‘Provenance’, and ‘Acquisition details’ which are not present in this dataset. <br><br>
+Note: <br>
+- The symbol (:::) is used to separate values in multivalued cells. 
+
 
 ## Cite this dataset
 When referring to or using the data repository in research publications and documentation, consider citing the dataset with its digital object identifier (DOI) that is minted in Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3973116.svg)](https://doi.org/10.5281/zenodo.3973116). Citing the data repository of the Magister Dixit collection creates a mapping of attribution and supports efforts to release other datasets in the future. It also reduces the amount of "orphaned data," helping to retain source links. <br>
@@ -81,8 +86,10 @@ The GitHub repository of KU Leuven Libraries follows the CNCF [Code of Conduct](
 [Advanced Master of Digital Humanities](https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_52330579.htm#activetab=diploma_omschrijving) (MSc), KU Leuven <br>
 - Martina Verna: Intern, KU Leuven Digitisation Department, thesis project
 
-## Contributors
-This project follows the all-contributors specification. KU Leuven Libraries recognises contributions and engagement for its open data repository through emoji key✨, in a way to reward every contribution, not only code. Contributions of any kind like questions, ideas, link to videos, translations and many more will be automatically acknowledged through the @all-contributors bot 🤖.
+## Examples of Creative Reuse
+The Magister Dixit Collection dataset has been used to create the [Magister Dixit Metadata Exploration](https://github.com/martinaverna/Magister-Dixit-Metadata-Exploration) project. The repository includes a modified version of the CSV file and a sample [Magister Dixit Jupyter Notebook](https://github.com/martinaverna/Magister-Dixit-Metadata-Exploration/blob/master/Magister-Dixit-Jupyter-Notebook.ipynb) to be used for further data exploration. <br><br>
+Have you used this dataset in a creative way? Please share it with us so we can add it here and showcase more examples of creative reuse of digital cultural heritage!<br>
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. KU Leuven Libraries recognises contributions and engagement for its open data repository through emoji key✨, in a way to reward every contribution, not only code. Contributions of any kind like questions, ideas, link to videos, translations and many more will be automatically acknowledged through the @all-contributors bot 🤖.
 
 
 
